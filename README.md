@@ -1,4 +1,4 @@
-## Alunos
+# Alunos
 
-# Lucas do Nascimento Costa
-# Wendel Menezes da Silva
+## Lucas do Nascimento Costa
+## Wendel Menezes da Silva
